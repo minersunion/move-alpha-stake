@@ -80,7 +80,7 @@ Delegates the transferred Alpha tokens from the holding coldkey to the MUV hotke
 Reduces the amount of Alpha tokens stored on the miner coldkey, lowering risk.
 
 #### Seamless Yield Generation: 
-Delegated tokens continue to earn yield without disruption.
+Delegated tokens will start to earn yield.
 
 #### Zero Market Impact: 
 Both actions (transfer & delegation) occur within the same block, ensuring they do not affect the Alpha token’s price chart.
