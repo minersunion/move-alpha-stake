@@ -1,0 +1,11 @@
+[project]
+name = "move-stake-muv"
+version = "0.1"
+description = "Secure miners alpha stake to another coldkey and stake with MUV for yield on holdings."
+dependencies = []
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.black]
+line-length = 158
